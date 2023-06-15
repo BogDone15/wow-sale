@@ -1,4 +1,5 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import { SingProductItem } from './pages/SingProductItem';
 import { Home } from './pages/Home';
 import { useState } from 'react';
@@ -7,7 +8,8 @@ function App() {
   const [showPayments, setShowPayments] = useState(false);
 
   return (
-    <BrowserRouter>
+    // <BrowserRouter basename={process.env.PUBLIC_KEY}>
+    <HashRouter>
       <Routes>
         <Route
           path="/"
@@ -28,7 +30,8 @@ function App() {
           }
         />
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
+    // </BrowserRouter>
   );
 }
 
