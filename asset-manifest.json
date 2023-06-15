@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/wow-sale/static/css/main.a04896f0.css",
-    "main.js": "/wow-sale/static/js/main.a51c1a12.js",
-    "static/media/banner2.gif": "/wow-sale/static/media/banner2.7b00d98f7d76067410b8.gif",
-    "static/media/banner1.gif": "/wow-sale/static/media/banner1.264ab53ff6c7f399bdb4.gif",
-    "static/media/facebook.jpeg": "/wow-sale/static/media/facebook.7aca00adcc263a672cd0.jpeg",
-    "static/media/wow-sale-lettering-pop-art.webp": "/wow-sale/static/media/wow-sale-lettering-pop-art.f1f39273ca911f8475e4.webp",
-    "static/media/tg.jpeg": "/wow-sale/static/media/tg.1fc72ba947bf53a56cd2.jpeg",
+    "main.css": "/wow-sale/static/css/main.45d99da7.css",
+    "main.js": "/wow-sale/static/js/main.3e291aaf.js",
+    "static/media/logo.png": "/wow-sale/static/media/logo.46ba893411c1c2fbdab8.png",
+    "static/media/bg.jpeg": "/wow-sale/static/media/bg.8bab377a05463554356d.jpeg",
     "static/media/tiktok1.jpeg": "/wow-sale/static/media/tiktok1.1d7a2127309dbc6001a9.jpeg",
+    "static/media/support.png": "/wow-sale/static/media/support.b48ea8e79f06dd18e809.png",
     "static/media/qiwi.png": "/wow-sale/static/media/qiwi.ee85b0cabc30b0fe27f5.png",
     "static/media/usdt_full.png": "/wow-sale/static/media/usdt_full.2b0e50bafeaa905483af.png",
     "static/media/capitalist.png": "/wow-sale/static/media/capitalist.5a5900d5694c6fae2577.png",
     "static/media/glasses.png": "/wow-sale/static/media/glasses.020a337434de9a376de1.png",
     "static/media/tiktok2.jpg": "/wow-sale/static/media/tiktok2.a7a2338367f6d6522634.jpg",
-    "static/media/support.jpg": "/wow-sale/static/media/support.c83189c4555d6dba027d.jpg",
+    "static/media/tg.svg": "/wow-sale/static/media/tg.d524ce60a5271a2d84bbeb6759286b02.svg",
     "index.html": "/wow-sale/index.html",
-    "main.a04896f0.css.map": "/wow-sale/static/css/main.a04896f0.css.map",
-    "main.a51c1a12.js.map": "/wow-sale/static/js/main.a51c1a12.js.map"
+    "main.45d99da7.css.map": "/wow-sale/static/css/main.45d99da7.css.map",
+    "main.3e291aaf.js.map": "/wow-sale/static/js/main.3e291aaf.js.map"
   },
   "entrypoints": [
-    "static/css/main.a04896f0.css",
-    "static/js/main.a51c1a12.js"
+    "static/css/main.45d99da7.css",
+    "static/js/main.3e291aaf.js"
   ]
 }
