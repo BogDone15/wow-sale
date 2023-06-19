@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wow-sale/static/css/main.45d99da7.css",
-    "main.js": "/wow-sale/static/js/main.3e291aaf.js",
+    "main.css": "/wow-sale/static/css/main.965dcb64.css",
+    "main.js": "/wow-sale/static/js/main.0c6fb951.js",
     "static/media/logo.png": "/wow-sale/static/media/logo.46ba893411c1c2fbdab8.png",
     "static/media/bg.jpeg": "/wow-sale/static/media/bg.8bab377a05463554356d.jpeg",
     "static/media/tiktok1.jpeg": "/wow-sale/static/media/tiktok1.1d7a2127309dbc6001a9.jpeg",
@@ -9,15 +9,14 @@
     "static/media/qiwi.png": "/wow-sale/static/media/qiwi.ee85b0cabc30b0fe27f5.png",
     "static/media/usdt_full.png": "/wow-sale/static/media/usdt_full.2b0e50bafeaa905483af.png",
     "static/media/capitalist.png": "/wow-sale/static/media/capitalist.5a5900d5694c6fae2577.png",
-    "static/media/glasses.png": "/wow-sale/static/media/glasses.020a337434de9a376de1.png",
     "static/media/tiktok2.jpg": "/wow-sale/static/media/tiktok2.a7a2338367f6d6522634.jpg",
     "static/media/tg.svg": "/wow-sale/static/media/tg.d524ce60a5271a2d84bbeb6759286b02.svg",
     "index.html": "/wow-sale/index.html",
-    "main.45d99da7.css.map": "/wow-sale/static/css/main.45d99da7.css.map",
-    "main.3e291aaf.js.map": "/wow-sale/static/js/main.3e291aaf.js.map"
+    "main.965dcb64.css.map": "/wow-sale/static/css/main.965dcb64.css.map",
+    "main.0c6fb951.js.map": "/wow-sale/static/js/main.0c6fb951.js.map"
   },
   "entrypoints": [
-    "static/css/main.45d99da7.css",
-    "static/js/main.3e291aaf.js"
+    "static/css/main.965dcb64.css",
+    "static/js/main.0c6fb951.js"
   ]
 }
