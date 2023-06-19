@@ -36,7 +36,7 @@ export const SingProductItem = ({ showPayments, setShowPayments }) => {
 	};
 
 	return (
-		<div className='bg-main-bg bg-fixed bg-no-repeat bg-cover p-2 sm:p-10 min-h-screen'>
+		<div className='font-raleway bg-main-bg bg-fixed bg-no-repeat bg-cover p-2 sm:p-10 min-h-screen'>
 			<div className='max-w-7xl w-full m-auto'>
 				<div className='flex-col lg:flex-row flex items-start gap-10'>
 					<Sidebar />

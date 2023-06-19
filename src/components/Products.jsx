@@ -10,9 +10,9 @@ export const Products = ({
 }) => {
 	return (
 		<>
-			<div className='relative inline-block px-[3px] mt-14 mb-10'>
+			<div className='relative inline-block px-[3px] mt-6 mb-4'>
 				<span className='absolute left-0 bottom-[3px] bg-blue w-full h-[7px] opacity-40'></span>
-				<h2 className='text-[18px] font-semibold'>Товары</h2>
+				<h2 className='text-[24px] font-semibold'>Товары</h2>
 			</div>
 			<div className='border-[1px] border-solid border-[#ddd]'>
 				<div className='flex items-end border-b-[1px] border-solid border-[#ddd] text-[12px] sm:text-base text-[#333] font-bold h-[69px]'>
@@ -31,7 +31,7 @@ export const Products = ({
 						Купить
 					</div>
 				</div>
-				<div className=' border-b-[1px] border-solid border-[#ddd] bg-yellow text-white text-sm font-medium text-center py-2 transition-all hover:bg-[#b7871e]'>
+				<div className=' border-b-[1px] border-solid border-[#ddd] bg-yellow text-[#3e3a31] text-sm font-medium text-center py-2 transition-all hover:bg-[#b7871e]'>
 					Аккаунты для Рекламы Тик Ток/ TikTok Advertising Accounts
 				</div>
 				<ProductItem

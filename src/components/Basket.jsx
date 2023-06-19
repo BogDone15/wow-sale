@@ -63,7 +63,7 @@ export const Basket = ({
 						setShowPopup(!showPopup);
 						setActiveitem();
 					}}
-					className='basket w-[72px] h-[72px] cursor-pointer fixed right-7 bottom-3 sm:right-6 sm:bottom-14 z-5 rounded-[36px] bg-contain'
+					className='basket w-[72px] h-[72px] cursor-pointer z-20 fixed right-7 bottom-3 sm:right-6 sm:bottom-14 z-5 rounded-[36px] bg-contain'
 				>
 					{cart.quantity > 0 ? (
 						<CSSTransition in={article} timeout={400} classNames='my-num'>

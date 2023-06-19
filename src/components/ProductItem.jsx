@@ -77,7 +77,7 @@ export const ProductItem = ({
 								<span className='inline-block w-0 h-0 border-t-4 border-dashed border-x-4 border-x-transparent text-white align-middle ml-1 transition-all'></span>
 							</button>
 							<ul
-								className={`absolute top-[107%] -left-[25px] sm:left-0 z-10 min-w-[105px] sm:min-w-[160px] bg-white text-left py-1  border-[1px] border-solid border-[#ddd] rounded-[4px] ${
+								className={`absolute top-[107%] -left-[25px] 2xl:left-0 z-10 min-w-[105px] sm:min-w-[160px] bg-white text-left py-1  border-[1px] border-solid border-[#ddd] rounded-[4px] ${
 									item.id === activeitem ? 'block' : 'hidden'
 								}`}
 							>

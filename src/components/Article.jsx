@@ -1,6 +1,5 @@
 import React, { useRef } from 'react';
 import { CSSTransition } from 'react-transition-group';
-
 import { useSelector } from 'react-redux';
 
 export const Article = ({ article }) => {
@@ -16,9 +15,9 @@ export const Article = ({ article }) => {
 			nodeRef={nodeRef}
 			unmountOnExit
 		>
-			<div ref={nodeRef} className='fixed left-2 top-2 bg-green-900 p-3 w-60'>
+			<div ref={nodeRef} className='fixed left-2 top-2 bg-[#3e3a31] p-3 w-60'>
 				<h2 className='text-white mb-2'>Добавлено</h2>
-				<div className='text-sm'>
+				<div className='text-sm text-white'>
 					Позиция {cartTitle}. {cartText}
 				</div>
 			</div>

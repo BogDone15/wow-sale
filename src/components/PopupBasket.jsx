@@ -68,7 +68,7 @@ export const PopupBasket = ({
 							</div>
 							<button
 								onClick={showPaymentsPopup}
-								className='bg-[#04b1f3] w-full text-center text-white uppercase py-3 text-[12px] font-semibold transition-all sha-btn mt-4 hover:bg-[#0385b7]'
+								className='bg-[#d7aa47] w-full text-center text-[#3e3a31] uppercase py-3 text-[12px] font-semibold transition-all sha-btn mt-4 hover:bg-[#b7871e]'
 							>
 								Перейти к оплате
 							</button>
