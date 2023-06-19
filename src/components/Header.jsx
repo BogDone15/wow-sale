@@ -8,7 +8,7 @@ export const Header = () => {
 			<div className='flex items-center mb-8 shadow-sm w-full h-16 bg-white rounded-md'>
 				<Link
 					to='/'
-					className='bg-blue h-16 flex items-center justify-center px-4 rounded-l-md transition-all hover:bg-[#0089d9] sm:px-6'
+					className='bg-[#3e3a31] h-16 flex items-center justify-center px-4 rounded-l-md transition-all hover:bg-[#b7871e] sm:px-6'
 				>
 					<img src={icon} alt='home' className='w-[70px] h-auto sm:w-[42px] ' />
 				</Link>
